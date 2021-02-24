@@ -23,6 +23,7 @@ public class MainBuildingStreams {
         Stream<String> streamOfString2 = Stream.iterate("+", s -> s + "+");
         streamOfString2.limit(5).forEach(System.out::println);
 
+        // stream on random number
         IntStream streamOfInt = ThreadLocalRandom.current().ints();
         streamOfInt.limit(5).forEach(System.out::println);
     }
