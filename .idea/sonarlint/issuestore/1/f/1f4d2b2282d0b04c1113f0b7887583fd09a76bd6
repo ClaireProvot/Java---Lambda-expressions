@@ -1,0 +1,19 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“ä¸‚
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(©Ï‹À8ÕÓÃÉü.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ÑË£Íùÿÿÿÿ8ã”ÁÉü.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§³’Çüÿÿÿÿ8†ş¸Éü.
+S
+java:S1854"6Remove this useless assignment to local variable "p6".(ÉÏ‚í8ÖÇÉü.
+N
+java:S16020",Remove useless curly braces around statement(ò¦ˆÿşÿÿÿÿ8ß®ÕÉü.
+T	java:S106-"9Replace this use of System.out or System.err by a logger.(ôƒò68È“ÈÉü.
+`
+java:S1596">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(§³’Çüÿÿÿÿ8†ş¸Éü.
+T	java:S106;"9Replace this use of System.out or System.err by a logger.(Áƒ©!8‰·×Éü.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÃˆŠÖøÿÿÿÿ8ËÎ¬Éü.
+D
+java:S1481"'Remove this unused "p6" local variable.(ÉÏ‚í8ÖÇÉü.
+`
+java:S1596">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(ÃˆŠÖøÿÿÿÿ8 Š°Éü.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(±¿©±8È“ÈÉü.

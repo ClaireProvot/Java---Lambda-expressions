@@ -1,0 +1,14 @@
+
+X
+java:S1854"6Remove this useless assignment to local variable "p5".(º¢ùÿÿÿÿ8ÅÁŠÃü.
+I
+java:S1481"'Remove this unused "p5" local variable.(º¢ùÿÿÿÿ8ÅÁŠÃü.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Éİ¯êúÿÿÿÿ
+S
+java:S1854"6Remove this useless assignment to local variable "p3".(Ù·‹´8“çÂü.
+D
+java:S1481"'Remove this unused "p3" local variable.(Ù·‹´8“çÂü.
+I
+java:S1481"'Remove this unused "p4" local variable.(„Ä…Óúÿÿÿÿ8øÜˆÃü.
+X
+java:S1854"6Remove this useless assignment to local variable "p4".(„Ä…Óúÿÿÿÿ8ªîüÂü.
